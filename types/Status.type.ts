@@ -1,0 +1,1 @@
+export type Status = "--" | "NEW" | "CONFIRMED" | "SHIPPED" | "CANCELLED"

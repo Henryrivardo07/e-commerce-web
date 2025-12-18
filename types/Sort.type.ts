@@ -1,0 +1,1 @@
+export type SortType = "--" | "newest" | "price" | "rating" | "popular"
